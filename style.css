@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
-  background: linear-gradient(135deg, #4f46e5, #7c3aed 55%, #db2777);
+  background: blue;
   padding: 16px;
 }
 
